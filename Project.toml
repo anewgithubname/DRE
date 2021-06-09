@@ -2,3 +2,7 @@ name = "LLKLIEP"
 uuid = "ddd68fbb-f1df-4578-a31d-6b35c86f6b34"
 authors = ["anewgithubname <song.liu@bristol.ac.uk>"]
 version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
